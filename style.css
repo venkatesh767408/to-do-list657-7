@@ -100,7 +100,7 @@ ul li.checked{
 
 ul li.checked::before{
     color: #666;
-    background-image: url(images/checked.png);
+    background-image: url(https://github.com/venkatesh767408/to-do-list657-7/blob/main/checked.png?raw=true);
 }
 
 
